@@ -110,7 +110,28 @@ This Jupyter Notebook contains the complete Python implementation of the Softwar
 
 ### Project Screenshots
 
-The repository includes screenshots demonstrating the project introduction, Python code, and program outputs.
+The following screenshots document the project development, Python code, and program outputs.
+
+#### Project Introduction
+
+![Project Introduction](Introduction.jpg)
+
+#### Code Section 2
+
+![Code Section 2](Code%202.png)
+
+#### Output Section 2
+
+![Output Section 2](Output%202.png)
+
+#### Code Section 3
+
+![Code Section 3](Code%203.png)
+
+#### Output Section 3
+
+![Output Section 3](Output%203.png)
+
 
 ---
 
