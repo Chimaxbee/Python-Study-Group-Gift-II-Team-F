@@ -1,10 +1,6 @@
 # Python-Study-Group-Gift-II-Team-F
+
 Team F | Case Study Project #14 | Software Bug Tracking System
-# Python Study Group Gift II
-
-## Team F | Case Study Project #14
-
-### Software Bug Tracking System
 
 **Deadline:** 30 August 2026
 
@@ -144,7 +140,7 @@ The project helped me improve my understanding of:
 
 **Chimamaka Victor Daniel**
 
-**Captain, Team F**
+**Team F**
 
 **Case Study Project #14**
 
@@ -153,7 +149,6 @@ The project helped me improve my understanding of:
 ## Acknowledgements
 
 I sincerely appreciate **Coach Timothy** and **SmartBizCrux Technologies** for their support, instructional resources, and practical guidance throughout the Python Study Group.
-
 
 ---
 
@@ -164,3 +159,4 @@ The Software Bug Tracking System demonstrates how fundamental Python programming
 The project provides a simple approach to collecting and processing bug reports while applying validation, classification, prioritization, status tracking, loops, and functions to produce a useful bug tracking report.
 
 Thank you for exploring my Python Study Group Gift II project.
+
