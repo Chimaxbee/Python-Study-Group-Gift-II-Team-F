@@ -10,7 +10,7 @@ Team F | Case Study Project #14 | Software Bug Tracking System
 
 This project is a Python-based Software Bug Tracking System developed as part of the Python Study Group Gift II Case Study Project.
 
-The system simulates a simple bug tracking solution for a fictional software development company. It is designed to help the development team record, validate, classify, prioritize, and track software bugs reported by users and the testing team.
+The system simulates a simple bug tracking solution for a software development company. It is designed to help the development team record, validate, classify, prioritize, and track software bugs reported by users and the testing team.
 
 The system also identifies bugs requiring immediate attention, processes multiple bug reports, and generates a clear bug tracking report.
 
@@ -28,7 +28,7 @@ Examples of software bugs include:
 * A user receives an unexpected error.
 * An important software feature stops functioning.
 
-Some bugs are critical and require immediate attention, while others are minor and can be addressed later.
+Some bugs are critical and require immediate attention, while others are minor 
 
 This project provides a simple Python-based solution for organizing and managing these bug reports.
 
