@@ -140,7 +140,7 @@ The project helped me improve my understanding of:
 
 **Chimamaka Victor Daniel**
 
-**Team F**
+**Captain, Team F**
 
 **Case Study Project #14**
 
