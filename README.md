@@ -2,9 +2,6 @@
 
 Title: Software Bug Tracking System
 
-Team F | Case Study Project #14 | Software Bug Tracking System
-
-**Deadline:** 30 August 2026
 
 ---
 
